@@ -48,4 +48,4 @@ We welcome contributors of all experience levels.
 ## Contact
 
 For collaboration, mentorship, or program-related queries:
-Email: chronallabs@gmail.com
+Email: chawlamanan26@gmail.com
