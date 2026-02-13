@@ -22,7 +22,7 @@ We work on projects at the intersection of:
 An open-source platform that helps users generate structured public complaints and RTI applications using AI, with support for multiple languages.
 
 Repository:
-https://github.com/ChronalLabs/ai-public-complaint-rti-generator
+[https://github.com/ChronalLabs/ai-public-complaint-rti-generator](https://github.com/ChronalLabs/RTI-APPLICATION-GENERATOR)
 
 ---
 
